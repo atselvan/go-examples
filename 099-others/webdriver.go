@@ -1,9 +1,9 @@
 package main
 
 import (
+	"github.com/fedesog/webdriver"
 	"log"
 	"time"
-	"github.com/fedesog/webdriver"
 )
 
 func main() {

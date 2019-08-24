@@ -1,0 +1,9 @@
+#IDE
+.idea
+
+#go dirs
+bin
+pkg
+
+#go imports
+**github.com
