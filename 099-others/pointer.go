@@ -41,7 +41,7 @@ func main() {
 	// double edge sword: to find all the statements that access a variable, we have to know all its aliases.
 }
 
-func f() *int{
+func f() *int {
 	v := 1
 	return &v
 }

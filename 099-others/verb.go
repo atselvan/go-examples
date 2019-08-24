@@ -7,7 +7,7 @@ func main() {
 	s := "ten"
 	b := true
 
-	fmt.Printf("Integer : %d, Type %T\n", i,i)
+	fmt.Printf("Integer : %d, Type %T\n", i, i)
 	fmt.Printf("String : %s, Type %T\n", s, s)
 	fmt.Printf("Quoted string : %q, Type %T\n", s, s)
 	fmt.Printf("Boolean : %t, Type %T\n", b, b)
