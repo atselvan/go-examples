@@ -4,6 +4,9 @@
 #go dirs
 bin
 pkg
+**vendor
 
 #go imports
 **github.com
+
+terms
